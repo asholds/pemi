@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/pemi/static/css/main.2cce8147.chunk.css",
-    "main.js": "/pemi/static/js/main.240bd362.chunk.js",
-    "main.js.map": "/pemi/static/js/main.240bd362.chunk.js.map",
+    "main.css": "/pemi/static/css/main.a614a32f.chunk.css",
+    "main.js": "/pemi/static/js/main.acce0382.chunk.js",
+    "main.js.map": "/pemi/static/js/main.acce0382.chunk.js.map",
     "runtime~main.js": "/pemi/static/js/runtime~main.767606ee.js",
     "runtime~main.js.map": "/pemi/static/js/runtime~main.767606ee.js.map",
-    "static/js/2.b41502e9.chunk.js": "/pemi/static/js/2.b41502e9.chunk.js",
-    "static/js/2.b41502e9.chunk.js.map": "/pemi/static/js/2.b41502e9.chunk.js.map",
+    "static/js/2.bb77ec93.chunk.js": "/pemi/static/js/2.bb77ec93.chunk.js",
+    "static/js/2.bb77ec93.chunk.js.map": "/pemi/static/js/2.bb77ec93.chunk.js.map",
     "index.html": "/pemi/index.html",
-    "precache-manifest.c996dced3ec2683df9f3c19fa3928dcf.js": "/pemi/precache-manifest.c996dced3ec2683df9f3c19fa3928dcf.js",
+    "precache-manifest.21bf50b66e7e37337653e1e70bfb3b1a.js": "/pemi/precache-manifest.21bf50b66e7e37337653e1e70bfb3b1a.js",
     "service-worker.js": "/pemi/service-worker.js",
-    "static/css/main.2cce8147.chunk.css.map": "/pemi/static/css/main.2cce8147.chunk.css.map",
-    "static/media/logo.svg": "/pemi/static/media/logo.5d5d9eef.svg"
+    "static/css/main.a614a32f.chunk.css.map": "/pemi/static/css/main.a614a32f.chunk.css.map"
   }
 }
